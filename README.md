@@ -1,12 +1,17 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollingerj/conda_binder_2024/py39_r40)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollingerj/Python-Machine-Learning.git/main
+)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/hollingerj/conda_binder_2024/py39_r40
+https://mybinder.org/v2/gh/hollingerj/Python-Machine-Learning.git/main
+
+Link to Orgininal Article: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+Article by Jason Brownlee, PhD
+
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
